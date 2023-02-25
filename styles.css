@@ -1,0 +1,28 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.first-part{
+    background-image: url('image.jpg');
+    opacity: 0.9;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    object-fit: fill;
+    padding: 0px 100px 150px;
+    width: 100%;
+}
+
+.searchbar{
+    margin-top: 200px;
+}
+
+#search-city-weather{
+    padding: 7%;
+}
+
+.last-part{
+    padding: 5% 10%;
+}
+.headinglast{
+    margin-bottom: 5rem;
+}

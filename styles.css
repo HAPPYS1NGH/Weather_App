@@ -26,3 +26,18 @@ body{
 .headinglast{
     margin-bottom: 5rem;
 }
+.footer-link{
+    text-decoration: none;
+    padding: 1.5rem;
+    color: grey;
+}
+footer{
+    margin: 5% 15% 2%;
+    text-align: center;
+}
+.footer-p{
+    margin-top: 10px;
+}
+.color-b{
+    background: rgb(190,216,240)
+}
